@@ -1,6 +1,6 @@
-# Guia Rápido: Testes com Cypress em Projetos Next.js
+# Testes com Cypress em Projetos Next.js
 
-Este projeto foi criado com [Next.js](https://nextjs.org) e já está pronto para você aprender e praticar testes automatizados com o [Cypress](https://www.cypress.io/).
+Este projeto foi criado com [Next.js](https://nextjs.org) e pronto para praticar testes automatizados com o [Cypress](https://www.cypress.io/).
 
 ## Diferença entre Jest e Cypress
 
